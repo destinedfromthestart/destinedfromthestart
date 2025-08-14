@@ -1,17 +1,12 @@
-## moneyissogood
+## destinedfromthestart
 
-welcome to my github page, which there is probably nthn here at the time of u reading this.  
-i only post stuff if it's like an old driver i don’t use anymore, usually cuz it’s now detected or just straight garbage 💔  
-don’t expect anything crazy like a full anticheat bypass
+i've quit developing cheats permanently unless they are eventually or a good cause if thats even possible -
+i am currently working on my own kernel anti-cheat called Pluto Rapid Intervention Detection Enforcement.
 
-### what i do:
-- c
-- c++
-- kernel stuff (learning heavy rn)
+as the name suggests, this doesnt just detect, but prevents cheaters in realtime.
+this will be done in unique ways to stop people from finding our detection vectors.
 
-still very early in the learning phase, especially in kernel 
-i’m not perfect and won’t be for a few years.  
-every day’s a new learning experience depending on how it goes.
+it will 100% surpass battleye, but is in high early development.
 
 ### contact:
-discord — `@moneyyissogood`
+discord — `@destinedfromthestart`
