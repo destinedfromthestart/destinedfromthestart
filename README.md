@@ -1,6 +1,6 @@
 # 🌌 destinedfromthestart
 
-**anticheat analyst** — working on improving anticheats.  
+**anticheat analyst** - working on improving anticheats.  
 **former cheat developer for fortnite and other titles for fun**
 
 ---
