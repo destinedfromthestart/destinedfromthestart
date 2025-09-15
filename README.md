@@ -1,12 +1,30 @@
-## destinedfromthestart
+# 🌌 destinedfromthestart
 
-i've quit developing cheats permanently unless they are eventually for a good cause if thats even possible -
-i am currently working on my own kernel anti-cheat called Pluto Rapid Intervention Detection Enforcement.
+**anticheat analyst** — working on improving anticheats.  
+**former cheat developer for fortnite and other titles for fun**
 
-as the name suggests, this doesnt just detect, but prevents cheaters in realtime.
-this will be done in unique ways to stop people from finding our detection vectors.
+---
 
-it will 100% surpass battleye, but is in high early development.
+## 🕹️ past projects
+- **edner** (fortnite) 
+- **avaddon**  (fortnite, valorant) 
+- **visuals.gg**  (fortnite) 
+- **vanta fn**  (fortnite) 
+- **kosmos**  (fortnite) 
 
-### contact:
-discord — `@destinedfromthestart`
+---
+
+## 🚀 current project
+### **Pluto — Rapid Intervention Detection Enforcement**
+> not just detection. *prevention in real-time.*
+
+pluto aims to **detect & stop cheaters instantly**, using unique methods so detection vectors can’t be leaked.
+it also bans hardware serials that cannot be spoofed from the os level, requiring hypervisors to simply spoof hardware.
+
+⚡ **goal**: surpass eac.  
+📌 **status**: very early development.  
+
+---
+
+## 📬 contact
+discord → **`@destinedfromthestart`**
