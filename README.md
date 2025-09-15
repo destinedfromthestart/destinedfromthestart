@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 current project
-### **Pluto — Rapid Intervention Detection Enforcement**
+### **Pride — Rapid Intervention Detection Enforcement**
 > not just detection. *prevention in real-time.*
 
 pluto aims to **detect & stop cheaters instantly**, using unique methods so detection vectors can’t be leaked.
