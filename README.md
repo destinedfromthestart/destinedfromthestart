@@ -1,7 +1,8 @@
 # 🌌 destinedfromthestart
 
-**anticheat analyst** 
-**former cheat developer for fortnite and other titles for fun**
+**anticheat analyst**
+
+**former cheat analyst**
 
 ---
 
